@@ -1,5 +1,5 @@
 <h2 align="center">
-  [Portfolio Website](https://vercel.com/aditiditis-projects/my-portfolio)<br/>
+  [https://my-portfolio-alpha-ivory-35.vercel.app/](Portfolio Website)<br/>
 
 </h2>
 
