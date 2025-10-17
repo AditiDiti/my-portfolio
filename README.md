@@ -1,6 +1,5 @@
 <h2 align="center">
-  [https://my-portfolio-alpha-ivory-35.vercel.app/](Portfolio Website)<br/>
-
+  <a href="https://my-portfolio-alpha-ivory-35.vercel.app/">Portfolio Website</a>
 </h2>
 
 ## Built With
